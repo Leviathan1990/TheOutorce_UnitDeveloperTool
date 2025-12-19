@@ -1,5 +1,6 @@
 The Outforce - UnitDeveloper Tool. V3.0.
 ==
+
 Target OS: Native Linux and Windows. Cross-platform QT project.
 ***
 
@@ -7,6 +8,7 @@ Target OS: Native Linux and Windows. Cross-platform QT project.
 =
 
 UnitDeveloper Tool is a ultimate toolkit, a complete all-in-one modding tool designed for the game, "The Outforce".
+***
 Its a recreation of the original GUI program "UnitDeveloper Tool" devs used to setup a lot of game data. This program bases on reverse engineering and some information obtained from the former devs of the game (memories in other words...) With this tool, you can change any values (game logic) in the game, inspect and extract the content of the PackedProject.opf asset container "archive", and much more!
 
 This build contains the latest version of:
@@ -48,5 +50,5 @@ Tester.
 ZaRR,
 Tester.
 
-Craft
+Craft,
 Tester.

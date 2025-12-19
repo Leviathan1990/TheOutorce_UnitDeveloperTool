@@ -28,13 +28,16 @@ UnitDeveloper built with the latest version of QT Creator IDE that supports cros
 Tested and built on: Ubuntu mate 24.04. and Windows 11. (64 bit).
 
 [Knowing issues]
+=
 
 [Support]
+=
 
 Web: www.theoutforce.hu
 e-mail: admin@theoutforce.hu
 
 [Credits]
+=
 
 Krisztian Kispeti
 lead dev, K's Interactive.

@@ -31,6 +31,22 @@ Tested and built on: Ubuntu mate 24.04. and Windows 11. (64 bit).
 
 [Knowing issues]
 =
+!  There are some extraction-related issues: 
+
+*  The mesh itself is kinda messed up.
+*  Selection default so not sure if its just to load the texture or disabled
+*  The scale for the uv's is not correct. it should be -1 in the y axis
+
+[Fixes:]
+
+*  Fix exporting-related issues.
+*  The UV's would match if its negative, however that doesnt fix the whole problem. now there's a need to get the uv's to be flipped based on their individual origins. that way it would match the texture.
+
+[Additions:]
+
++   Make it possible to add custom-made classes section files(.CUnit, .CUnitWeapon, .CGridMember, .CBaseClass);
++   Make it possible to add custom-made image files (for background images used in the map editor for example.)
+
 
 [Support]
 =
